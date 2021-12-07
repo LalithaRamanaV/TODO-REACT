@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital@0;1&family=Varela&family=Varela+Round&display=swap");
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:"Varela Round";
+}
+.main {
+  margin: 0 auto;
+  max-width: 600px;
+}
+h1{
+  font-family:"Varela Round";
+  align-items: center;
+  text-align: center;
+}
+.content {
+  align-items: center;
+  text-align: center;
+  border: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+table {
+  width: 100%;
+}
+td:first-child {
+  width: 100%;
+}
+td:last-child {
+  min-width: 125px;
+}
+th {
+  text-align: center;
+  font-family:"Varela Round";
+}
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+input,
+button {
+  font-size: 20px;
+  padding: 5px;
+  text-align:center;
+  border-radius: 5px;
+  align-items: center;
+  border: 2px #c0c0c0 solid;
+  
+}
+button {
+  cursor: pointer;
+}
+button.add {
+  background-color: #0080ff;
+  color: #ffffff;
+}
+
+button.edit {
+  background-color: #20a0b0;
+  color: #ffffff;
+}
+
+button.delete {
+  background-color: #e04040;
+  color: #ffffff;
+}
+
+button.save {
+  background-color: #30b040;
+  color: #ffffff;
+}
+
+button.back {
+  background-color: #707080;
+  color: #ffffff;
+}
+
+.task {
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}
