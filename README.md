@@ -69,9 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-###A simple CRUD APPLICATION THAT IS TODO APP is created.
 
-###Features:
+A simple CRUD 
+APPLICATION THAT IS TODO APP is created.
+
+Features:
+
 Adding tasks
 deleting 
 saving
